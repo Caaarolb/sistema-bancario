@@ -43,7 +43,7 @@ public class Desafio {
                 saldo += valor;
                 System.out.println(saldo + "\nSaldo atualizado com sucesso!");
             } else if (opcao != 4){
-                System.out.println("Opço invalida!");
+                System.out.println("Opção invalida!");
             }
 
         }
